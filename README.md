@@ -73,4 +73,3 @@ kubectl get svc -A
 - Uji coba ini dilakukan pada lingkungan R&D (non-produksi).
 - Snapshot otomatis disimpan oleh K3s sesuai konfigurasi default di direktori:  
   `/var/lib/rancher/k3s/etcd-snapshots`
-```
