@@ -1,4 +1,3 @@
-```markdown
 # 📦 Backup dan Restore Snapshot K3s
 
 ## 🗓️ Tanggal
@@ -69,8 +68,6 @@ kubectl get svc -A
 ## ✅ Hasil
 - Cluster berhasil kembali ke state pada saat snapshot dibuat.
 - Pod dan service kembali seperti sebelumnya.
-
----
 
 ## 📝 Catatan Tambahan
 - Uji coba ini dilakukan pada lingkungan R&D (non-produksi).
